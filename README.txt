@@ -1,2 +1,2 @@
-------------------------
-Project RyCrypt (beta1) by RandomAlias
+# ------------------------
+# Project RyCrypt (beta1) by RandomAlias
